@@ -1,0 +1,4 @@
+/usr/local/tomcat/apache-tomcat-9.0.20/webapps/khellafMassiLivre/src/main/java/fr/ifdauphine/khellafMassiLivre/model/Livre.java
+/usr/local/tomcat/apache-tomcat-9.0.20/webapps/khellafMassiLivre/src/main/java/fr/ifdauphine/khellafMassiLivre/dao/LivreDao.java
+/usr/local/tomcat/apache-tomcat-9.0.20/webapps/khellafMassiLivre/src/main/java/fr/ifdauphine/khellafMassiLivre/controller/LivreController.java
+/usr/local/tomcat/apache-tomcat-9.0.20/webapps/khellafMassiLivre/src/main/java/fr/ifdauphine/khellafMassiLivre/KhellafMassiLivreApplication.java

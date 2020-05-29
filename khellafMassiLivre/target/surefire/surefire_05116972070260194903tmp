@@ -1,0 +1,5 @@
+#surefire_0
+#Fri May 29 05:26:15 CEST 2020
+user.dir=/usr/local/tomcat/apache-tomcat-9.0.20/webapps/khellafMassiLivre
+localRepository=/home/chakib/.m2/repository
+basedir=/usr/local/tomcat/apache-tomcat-9.0.20/webapps/khellafMassiLivre

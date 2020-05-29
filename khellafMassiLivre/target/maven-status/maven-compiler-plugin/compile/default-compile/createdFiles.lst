@@ -1,0 +1,4 @@
+fr/ifdauphine/khellafMassiLivre/KhellafMassiLivreApplication.class
+fr/ifdauphine/khellafMassiLivre/model/Livre.class
+fr/ifdauphine/khellafMassiLivre/controller/LivreController.class
+fr/ifdauphine/khellafMassiLivre/dao/LivreDao.class
